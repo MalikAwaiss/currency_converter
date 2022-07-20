@@ -1,0 +1,6 @@
+module Pods_currency_exchange_currency_exchangeTests {
+  umbrella header "Pods-currency_exchange-currency_exchangeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
